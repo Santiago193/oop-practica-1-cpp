@@ -1,4 +1,5 @@
-# OOP Practice 1 – C++ Exercises
+# Basic Banking Operations with Classes – C++
+
 
 This repository contains two basic Object-Oriented Programming exercises written in C++. Each exercise demonstrates the use of classes, constructors, encapsulation, and object manipulation.
 
